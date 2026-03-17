@@ -1,0 +1,18 @@
+
+# Python
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Dataset (large files)
+dataset/
+
+# Embeddings
+*.npy
+
+# Database
+*.db
+
